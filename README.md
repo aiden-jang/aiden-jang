@@ -1,8 +1,11 @@
-![logo](https://user-images.githubusercontent.com/43161185/136134306-f8008ee4-5d6e-410f-885f-4dc92dd7464a.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/43161185/136134306-f8008ee4-5d6e-410f-885f-4dc92dd7464a.png">
+</p>
 
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
 
-Email: aidenwsj@gmail.com
+<p align="center">Email: aidenwsj@gmail.com</p>
+
 
 <!-- [![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiden-jang)](https://github.com/aiden-jang/github-readme-stats) -->
 
