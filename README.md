@@ -2,6 +2,7 @@
 
 ### Hi there 👋
 
+Email: aidenwsj@gmail.com
 
 <!-- [![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiden-jang)](https://github.com/aiden-jang/github-readme-stats) -->
 
