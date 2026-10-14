@@ -9,7 +9,7 @@ some useful, some just because.
 
 <sub>SOMEWHERE IN THE TABS</sub>
 
-[everything is fine ↗](https://everythingisfine.aidenjang.com) · [iguess ↗](https://iguess.aidenjang.com) · [bloomnote ↗](https://bloomnote.aidenjang.com)
+a few things worth clicking ↓
 
 <br>
 
