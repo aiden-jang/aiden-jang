@@ -15,4 +15,4 @@ a few things worth clicking ↓
 
 ---
 
-[website ↗](https://aidenjang.com) · [say hello ↗](mailto:me@aidenjang.com)
+[website ↗](https://aidenjang.com) · [linkedin ↗](YOUR_LINKEDIN_URL) · [say hello ↗](mailto:me@aidenjang.com)
