@@ -1,25 +1,18 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/43161185/136134306-f8008ee4-5d6e-410f-885f-4dc92dd7464a.png">
-</p>
+# aiden jang
 
-<h3 align="center">Hi there 👋</h3>
+software engineer · nyc
 
-<p align="center">Email: aidenwsj@gmail.com</p>
+i make things for the internet.  
+some useful, some just because.
 
+<br>
 
-<!-- [![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiden-jang)](https://github.com/aiden-jang/github-readme-stats) -->
+<sub>SOMEWHERE IN THE TABS</sub>
 
-<!--
-**skylineciel/skylineciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[everything is fine ↗](https://everythingisfine.aidenjang.com) · [iguess ↗](https://iguess.aidenjang.com) · [bloomnote ↗](https://bloomnote.aidenjang.com)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[website ↗](https://aidenjang.com) · [say hello ↗](mailto:me@aidenjang.com)
